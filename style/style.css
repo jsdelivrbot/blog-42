@@ -1,0 +1,13 @@
+.text-xs-right {
+  position: relative;
+  margin-right: -5px;
+  margin-bottom: 10px;
+}
+
+form a {
+  margin-left: 10px;
+}
+
+#add-post {
+  margin-bottom: 10px;
+}
